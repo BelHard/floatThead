@@ -1,0 +1,10 @@
+{
+    "name": "belhard/floatthead",
+    "type": "library",
+	  "description": "Float the table header on scroll.",
+    "license": "MIT License",
+    "keywords": [
+	    	"javascript",
+		    "html"
+	  ]
+}
