@@ -2,6 +2,7 @@
     "name": "belhard/floatthead",
     "type": "library",
     "description": "Float the table header on scroll.",
+    "license": "MIT",
     "keywords": [
 	    	"javascript",
 		    "html"
